@@ -2,18 +2,18 @@
 .container {
     text-align: center;
     margin-top: 50px;
-  }
+}
   
-  .heading {
+.heading {
     font-size: 36px;
     margin-bottom: 20px;
-  }
+}
   
-  .image {
+.image {
     width: 300px;
     height: 300px;
     border-radius: 50%;
     object-fit: cover;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  }
+}
   
