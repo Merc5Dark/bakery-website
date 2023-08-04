@@ -1,0 +1,35 @@
+/* MenuPage.module.css */
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+  
+.heading {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+  
+.menuItem {
+    display: inline-block;
+    margin: 10px;
+    max-width: 200px;
+}
+  
+.menuItemImage {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+  
+.menuItemName {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+  
+.menuItemDescription {
+    font-size: 14px;
+}
+  
